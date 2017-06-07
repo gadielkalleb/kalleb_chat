@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100020852509",
+    "firebase_url": "https://exemplo-5293b.firebaseio.com",
+    "project_id": "exemplo-5293b",
+    "storage_bucket": "exemplo-5293b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100020852509:android:7abcfb71ce3fcd6f",
+        "android_client_info": {
+          "package_name": "br.com.example.kallebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100020852509-qk8bn58fc9u43unpl2ai7u300jnc6oia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.example.kallebchat",
+            "certificate_hash": "c29c5ec304edf3dd338a9d5715a97966fc2f912e"
+          }
+        },
+        {
+          "client_id": "100020852509-lln445h42mmdi0nctu1hpvfh5umgu74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjP5KG6kth5mMB4JUYHa1K4b-Y0YebIQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100020852509-lln445h42mmdi0nctu1hpvfh5umgu74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
